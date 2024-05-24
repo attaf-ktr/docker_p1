@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../dockertest/vite-project"
+		},
+		{
+			"path": "../../dockertest/react-docker"
+		},
+		{
+			"path": "../mern-docker"
+		},
+		{
+			"path": "."
+		}
+	]
+}
